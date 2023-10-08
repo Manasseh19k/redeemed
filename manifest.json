@@ -1,6 +1,7 @@
 {
     "name": "REDEEMED CHRISTIAN CHURCH OF GOD, FARGO, ND",
     "short_name": "RCCG, FARGO, ND",
+    "start_url": ".",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
